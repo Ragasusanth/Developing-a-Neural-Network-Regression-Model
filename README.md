@@ -182,7 +182,7 @@ print(f'Prediction: {prediction}')
 ### Training Loss Vs Iteration Plot
 
 ![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/8e0606600c5410d0ffe860da642e930465a48e0d/Screenshot%202026-04-27%20131227.png)
-
+![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/c31207c7ff6540c9d1064a3e237f12ffe205ad92/Screenshot%202026-04-27%20135901.png)
 
 ### New Sample Data Prediction
 
