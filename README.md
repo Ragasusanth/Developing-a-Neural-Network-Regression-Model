@@ -171,22 +171,22 @@ print(f'Prediction: {prediction}')
 
 
 ### Dataset Information
-<img width="431" height="558" alt="image" src="https://github.com/user-attachments/assets/7b8c9165-b470-438a-835a-7d7dcc9c3631" />
+![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/8e0606600c5410d0ffe860da642e930465a48e0d/Screenshot%202026-04-27%20131122.png)
 
 
 ### OUTPUT
 
-<img width="457" height="269" alt="image" src="https://github.com/user-attachments/assets/90d5cc61-03c0-41c3-bce9-667942d04410" />
-<img width="257" height="51" alt="image" src="https://github.com/user-attachments/assets/3c22f24a-42cd-45fb-8b8a-f8b8936d5c55" />
+![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/8e0606600c5410d0ffe860da642e930465a48e0d/Screenshot%202026-04-27%20131152.png)
 
 
 ### Training Loss Vs Iteration Plot
 
-<img width="761" height="610" alt="image" src="https://github.com/user-attachments/assets/c97903fc-ef35-4a20-932d-8c3d0f754efa" />
+![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/8e0606600c5410d0ffe860da642e930465a48e0d/Screenshot%202026-04-27%20131227.png)
+
 
 ### New Sample Data Prediction
 
-<img width="417" height="61" alt="image" src="https://github.com/user-attachments/assets/d34d77a7-6143-4b3c-aff8-3c8ee589639d" />
+![image alt](https://github.com/Ragasusanth/Developing-a-Neural-Network-Regression-Model/blob/8e0606600c5410d0ffe860da642e930465a48e0d/Screenshot%202026-04-27%20131218.png)
 
 
 ## RESULT
